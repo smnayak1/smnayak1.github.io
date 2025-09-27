@@ -7,36 +7,36 @@
 
   <macro name="author">
     <names variable="author">
-      <name and="text" initialize-with="." delimiter=", " />
+      <name and="text" initialize-with="." delimiter=", "/>
     </names>
   </macro>
 
   <macro name="issued">
     <date variable="issued">
-      <date-part name="year" />
+      <date-part name="year"/>
     </date>
   </macro>
 
   <macro name="title">
-    <text variable="title" />
+    <text variable="title"/>
   </macro>
 
   <macro name="container">
     <group delimiter=", ">
-      <text variable="container-title" font-style="italic" />
+      <text variable="container-title" font-style="italic"/>
       <group>
-        <text variable="volume" prefix=", " font-style="italic" />
-        <text variable="issue" prefix="(" suffix=")" />
+        <text variable="volume" prefix=", " font-style="italic"/>
+        <text variable="issue" prefix="(" suffix=")"/>
       </group>
-      <text variable="page" prefix=", " />
+      <text variable="page" prefix=", "/>
     </group>
   </macro>
 
   <macro name="doi">
-    <text variable="DOI" prefix=" https://doi.org/" />
+    <text variable="DOI" prefix=" https://doi.org/"/>
   </macro>
 
-  <!-- REQUIRED even if you don't use in-text citations -->
+  <!-- required even if you don't use in-text citations -->
   <citation>
     <layout>
       <text variable="citation-number"/>
@@ -56,6 +56,7 @@
         <text macro="title"/>
         <text macro="container" prefix=" "/>
         <text macro="doi"/>
+        <text variable="note" prefix=" "/>
       </group>
     </layout>
   </bibliography>
