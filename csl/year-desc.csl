@@ -36,6 +36,16 @@
     <text variable="DOI" prefix=" https://doi.org/"/>
   </macro>
 
+  <macro name="url">
+    <choose>
+      <if variable="URL">
+        <text value=" [PDF](" />
+        <text variable="URL" />
+        <text value=")" />
+      </if>
+    </choose>
+  </macro>
+
   <!-- required even if you don't use in-text citations -->
   <citation>
     <layout>
@@ -56,6 +66,7 @@
         <text macro="title"/>
         <text macro="container" prefix=" "/>
         <text macro="doi"/>
+        <text macro="url"/>
         <text variable="note" prefix=" "/>
       </group>
     </layout>
