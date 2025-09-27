@@ -1,8 +1,13 @@
 ---
 title: "Publications"
 bibliography: bib/publications.bib
+csl: csl/year-desc.csl
 nocite: |
   @*
+link-citations: true
+markdown-in-bibliography: true
+filters:
+  - filters/bold-nayak.lua
 ---
 
 ::: {#refs}

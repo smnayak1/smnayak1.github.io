@@ -5,7 +5,13 @@ image: img/headshot.jpg
 
 # Sandeep M. Nayak, MD
 
-Assistant Professor of Psychiatry, Johns Hopkins. Medical Director, Center for Psychedelic & Consciousness Research. I study psilocybin and other psychedelics for substance use and mood disorders.
+Sandeep M. Nayak, MD, is an Assistant Professor of Psychiatry at Johns Hopkins and Medical Director of the Center for Psychedelic & Consciousness Research. He joined the lab in 2020, completed a postdoctoral fellowship with Roland Griffiths, PhD, and then transitioned to faculty. Dr. Nayak is PI on BIPOD, a randomized clinical trial of psilocybin for opioid use disorder, a pilot study of psilocybin for PTSD, and a microdosing safety study. His interests include clinical applications of psychedelics, Bayesian statistics, clinical-trial methodology, belief change, and psychedelic anthropology. He is also a practicing psychiatrist.
+
+
+
+
+Sources
+
 
 -   Email: smn\@jhmi.edu
 -   [Google Scholar](https://scholar.google.com/citations?user=qhEztHUAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6832-0639) · [GitHub](https://github.com/smnayak1)

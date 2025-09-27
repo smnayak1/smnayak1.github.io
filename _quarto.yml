@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - bib/publications.bib
+    - pdfs/**
 
 website:
   title: "Sandeep M. Nayak, MD"
@@ -19,7 +22,7 @@ website:
       - icon: github
         href: https://github.com/smnayak1
       - text: Scholar
-        href: https://scholar.google.com/citations?user=qhEztHUAAAAJ&hl=en
+        href: "https://scholar.google.com/citations?user=qhEztHUAAAAJ&hl=en"
       - text: ORCID
         href: https://orcid.org/0000-0002-6832-0639
   page-footer:
@@ -31,3 +34,4 @@ format:
     toc: true
     number-sections: false
     smooth-scroll: true
+    link-external-newwindow: true
