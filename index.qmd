@@ -1,11 +1,13 @@
 ---
-title: "website"
+title: "About"
+image: img/headshot.jpg
 ---
 
-This is a Quarto website.
+# Sandeep M. Nayak, MD
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Assistant Professor of Psychiatry, Johns Hopkins. Medical Director, Center for Psychedelic & Consciousness Research. I study psilocybin and other psychedelics for substance use and mood disorders.
 
-```{r}
-1 + 1
-```
+-   Email: smn\@jhmi.edu
+-   [Google Scholar](https://scholar.google.com/citations?user=qhEztHUAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6832-0639) · [GitHub](https://github.com/smnayak1)
+
+**Current projects.** BIPOD (psilocybin for OUD), microdosing safety, PTSD trial design, preparation/integration methods.

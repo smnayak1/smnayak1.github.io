@@ -3,9 +3,10 @@ project:
   output-dir: _site
 
 website:
-  title: "Dr. Your Name"
+  title: "Sandeep M. Nayak, MD"
+  site-url: https://smnayak1.github.io
   navbar:
-    right:
+    left:
       - text: Home
         href: index.qmd
       - text: Publications
@@ -14,13 +15,19 @@ website:
         href: teaching.qmd
       - text: CV
         href: cv.qmd
+    right:
       - icon: github
-        href: https://github.com/yourhandle
-      - icon: google
-        href: https://scholar.google.com/citations?user=YOURID
-      - icon: link-45deg
-        href: https://orcid.org/0000-0000-0000-0000
+        href: https://github.com/smnayak1
+      - text: Scholar
+        href: https://scholar.google.com/citations?user=qhEztHUAAAAJ&hl=en
+      - text: ORCID
+        href: https://orcid.org/0000-0002-6832-0639
+  page-footer:
+    center: "© Sandeep M. Nayak"
+
 format:
   html:
     theme: flatly
     toc: true
+    number-sections: false
+    smooth-scroll: true
