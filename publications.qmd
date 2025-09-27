@@ -6,8 +6,7 @@ nocite: |
   @*
 link-citations: true
 markdown-in-bibliography: true
-filters:
-  - filters/bold-nayak.lua
+
 ---
 
 ::: {#refs}

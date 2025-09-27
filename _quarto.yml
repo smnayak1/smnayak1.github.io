@@ -35,3 +35,7 @@ format:
     number-sections: false
     smooth-scroll: true
     link-external-newwindow: true
+    css: styles.css
+    
+metadata:
+  markdown-in-bibliography: true
