@@ -71,6 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <style>html{ scroll-behavior: smooth; }</style>
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -167,7 +168,8 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="sandeep-m.-nayak-md" class="level1">
 <h1>Sandeep M. Nayak, MD</h1>
-<p>Assistant Professor of Psychiatry, Johns Hopkins. Medical Director, Center for Psychedelic &amp; Consciousness Research. I study psilocybin and other psychedelics for substance use and mood disorders.</p>
+<p>Sandeep M. Nayak, MD, is an Assistant Professor of Psychiatry at Johns Hopkins and Medical Director of the Center for Psychedelic &amp; Consciousness Research. He joined the lab in 2020, completed a postdoctoral fellowship with Roland Griffiths, PhD, and then transitioned to faculty. Dr.&nbsp;Nayak is PI on BIPOD, a randomized clinical trial of psilocybin for opioid use disorder, a pilot study of psilocybin for PTSD, and a microdosing safety study. His interests include clinical applications of psychedelics, Bayesian statistics, clinical-trial methodology, belief change, and psychedelic anthropology. He is also a practicing psychiatrist.</p>
+<p>Sources</p>
 <ul>
 <li>Email: smn@jhmi.edu</li>
 <li><a href="https://scholar.google.com/citations?user=qhEztHUAAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://orcid.org/0000-0002-6832-0639">ORCID</a> · <a href="https://github.com/smnayak1">GitHub</a></li>
@@ -265,6 +267,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

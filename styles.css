@@ -1,0 +1,10 @@
+#refs a[href$=".pdf"] {
+  display: inline-block;
+  padding: 2px 8px;
+  border: 1px solid currentColor;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  margin-left: 6px;      /* a little space after the citation */
+}
+#refs a[href$=".pdf"]:hover { text-decoration: underline; }
