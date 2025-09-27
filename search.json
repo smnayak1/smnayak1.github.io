@@ -1,16 +1,44 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download full CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nMD, Institution, Year"
+  },
+  {
+    "objectID": "cv.html#appointments",
+    "href": "cv.html#appointments",
+    "title": "CV",
+    "section": "Appointments",
+    "text": "Appointments\n\nAssistant Professor, Psychiatry, Johns Hopkins (2022–present)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Barnett, Brian S., Akhil Anand, Elizabeth N. Dewey, Darron Smith, Sandeep M. Nayak, David Bruckman, and Jeremy Weleff. 2024. “Perceived Risk of Trying Lysergic Acid Diethylamide in the United States from 2015 to 2019: Are Americans Assessing Lysergic Acid Diethylamide’s Risk Profile More Favorably?” Psychedelic Medicine 2 (2): 74–86. https://doi.org/10.1089/psymed.2023.0027.\n\n\nGoldy, Sean P, Benjamin A Du, Julia S Rohde, Sandeep M Nayak, Justin C Strickland, Rebecca Ehrenkranz, Michael Levine, Frederick S Barrett, and David B Yaden. 2024. “Psychedelic Risks and Benefits: A Cross-Sectional Survey Study.” Journal of Psychopharmacology 39 (5): 436–52. https://doi.org/10.1177/02698811241292951.\n\n\nGukasyan, Natalie, Roland R. Griffiths, David B. Yaden, Denis G. Antoine, and Sandeep M. Nayak. 2023. “Attenuation of Psilocybin Mushroom Effects During and After SSRI/SNRI Antidepressant Use.” Journal of Psychopharmacology 37 (7): 707–16. https://doi.org/10.1177/02698811231179910.\n\n\nGukasyan, N., and S. M. Nayak. 2021. “Psychedelics, Placebo Effects, and Set and Setting: Insights from Common Factors Theory of Psychotherapy.” Transcultural Psychiatry.\n\n\nHuhn, A. S., E. C. Strain, J. Jardot, G. Turner, C. L. Bergeria, S. Nayak, and K. E. Dunn. 2022. “Treatment Disruption and Childcare Responsibility as Risk Factors for Drug and Alcohol Use in Persons in Treatment for Substance Use Disorders During the COVID-19 Crisis.” Journal of Addiction Medicine 16 (1): e8–15.\n\n\nKerr, C. E., U. Agrawal, and S. Nayak. 2016. “The Effects of Tai Chi Practice on Intermuscular Beta Coherence and the Rubber Hand Illusion.” Frontiers in Human Neuroscience 10 (FEB2016).\n\n\nNayak, Sandeep Manel, Manvir Singh, David Bryce Yaden, and Roland R. Griffiths. 2022. “Belief Changes Associated with Psychedelic Use,” June. https://doi.org/10.31234/osf.io/rdzmy.\n\n\nNayak, Sandeep M., Bilal A. Bari, David B. Yaden, Meg J. Spriggs, Fernando E. Rosas, Joseph M. Peill, Bruna Giribaldi, David Erritzoe, David J. Nutt, and Robin Carhart-Harris. 2023. “A Bayesian Reanalysis of a Trial of Psilocybin Versus Escitalopram for Depression.” Psychedelic Medicine 1 (1): 18–26. https://doi.org/10.1089/psymed.2022.0002.\n\n\nNayak, Sandeep M., and Zarmeen Zahid. 2025. “Out of Control: Blinding, Dose Response, and Psychosocial Controls in Psychedelic Trials.” Journal of Psychopharmacology, September. https://doi.org/10.1177/02698811251368367.\n\n\nNayak, Sandeep, Natalie Gukasyan, Frederick S. Barrett, Earth Erowid, Fire Erowid, and Roland R. Griffiths. 2021. “Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, Is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports,” February. https://doi.org/10.31234/osf.io/r726d.\n\n\nSingleton, S. Parker, Brooke L. Sevchik, Analiese Lahey, Pim Cuijpers, Mathias Harrer, Megan T. Jones, Sandeep M. Nayak, et al. 2025. “Psilocybin Treatment for Symptoms of Depression: A Living Systematic Review, Meta-Analysis, and Data Resource,” August. https://doi.org/10.1101/2025.08.13.25333530.\n\n\nYaden, David B., Sandeep M. Nayak, Natalie Gukasyan, Brian T. Anderson, and Roland R. Griffiths. 2021. “The Potential of Psychedelics for End of Life and Palliative Care.” In Current Topics in Behavioral Neurosciences. Springer Berlin Heidelberg. https://doi.org/10.1007/7854_2021_278.\n\n\nZaller, N. D., M. A. Yokell, S. M. Nayak, J. J. Fu, A. R. Bazazi, and J. D. Rich. 2012. “Syringe Acquisition Experiences and Attitudes Among Injection Drug Users Undergoing Short-Term Opioid Detoxification in Massachusetts and Rhode Island.” Journal of Urban Health 89 (4): 659–70."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Sandeep M. Nayak, MD\nAssistant Professor of Psychiatry, Johns Hopkins. Medical Director, Center for Psychedelic & Consciousness Research. I study psilocybin and other psychedelics for substance use and mood disorders.\n\nEmail: smn@jhmi.edu\nGoogle Scholar · ORCID · GitHub\n\nCurrent projects. BIPOD (psilocybin for OUD), microdosing safety, PTSD trial design, preparation/integration methods."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
