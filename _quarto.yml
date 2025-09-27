@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Dr. Your Name"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: cv.qmd
+      - icon: github
+        href: https://github.com/yourhandle
+      - icon: google
+        href: https://scholar.google.com/citations?user=YOURID
+      - icon: link-45deg
+        href: https://orcid.org/0000-0000-0000-0000
+format:
+  html:
+    theme: flatly
+    toc: true
