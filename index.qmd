@@ -5,20 +5,26 @@ about:
   image: img/headshot.jpg
   image-width: 15em
   image-shape: round
+  #quarto publish gh-pages in terminal
+  # https://smnayak1.github.io/
 ---
 
-Sandeep M. Nayak, MD, is an Assistant Professor of Psychiatry at Johns Hopkins and Medical Director of the Center for Psychedelic & Consciousness Research. He joined the center in 2020, completed a postdoctoral fellowship with Roland Griffiths, PhD, and then transitioned to faculty. 
+Sandeep M. Nayak, MD, is an Assistant Professor of Psychiatry at Johns Hopkins and Medical Director of the Center for Psychedelic & Consciousness Research. He joined the center in 2020, completed a postdoctoral fellowship with Roland Griffiths, PhD, and then transitioned to faculty.
 
 Sandeep is currently Principal Investigator of three clinical trials:
-- BIPOD: a randomized trial of psilocybin for Opioid Use Disorder alongside buprenorphine
-- Pilot study of psilocybin for PTSD 
-- Microdose psilocybin safety study 
+
+-   [BIPOD](https://hopkinspsychedelic.org/opioiduse): a randomized trial of psilocybin for Opioid Use Disorder alongside buprenorphine
+
+-   [Pilot study of psilocybin for PTSD](https://hopkinspsychedelic.org/ptsdstudy)
+
+-   [Microdose psilocybin safety study](https://hopkinspsychedelic.org/microdose) in healthy volunteers
 
 His interests clinical applications of psychedelics, Bayesian statistics, clinical-trial methodology, belief change, and psychedelic anthropology. He is also a practicing psychiatrist.
 
 ## Contact
-- Email: smn@jhmi.edu
-- [Google Scholar](https://scholar.google.com/citations?user=qhEztHUAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6832-0639) · [GitHub](https://github.com/smnayak1)
-- [Twitter/X](https://x.com/sdpnayak) · [Hopkins Profile](https://hopkinspsychedelic.org/nayak)
+
+-   Email: smn \[at\] jhmi \[dot\] edu
+-   [Google Scholar](https://scholar.google.com/citations?user=qhEztHUAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6832-0639) · [GitHub](https://github.com/smnayak1)
+-   [Twitter/X](https://x.com/sdpnayak) · [Hopkins Profile](https://hopkinspsychedelic.org/nayak)
 
 **Current projects.** BIPOD (psilocybin for OUD), microdosing safety, PTSD trial design, preparation/integration methods.
