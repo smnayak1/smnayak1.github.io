@@ -4,7 +4,6 @@ project:
   resources:
     - bib/publications.bib
     - pdfs/**
-
 website:
   title: "Sandeep M. Nayak, MD"
   site-url: https://smnayak1.github.io
@@ -14,8 +13,8 @@ website:
         href: index.qmd
       - text: Publications
         href: publications.qmd
-      - text: Teaching
-        href: teaching.qmd
+      - text: Updates
+        href: updates.qmd
       - text: CV
         href: cv.qmd
     right:
@@ -27,7 +26,6 @@ website:
         href: https://orcid.org/0000-0002-6832-0639
   page-footer:
     center: "© Sandeep M. Nayak"
-
 format:
   html:
     theme: flatly
@@ -36,6 +34,8 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     css: styles.css
+    cite-method: citeproc
     
 metadata:
   markdown-in-bibliography: true
+  citeproc: true

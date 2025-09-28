@@ -5,10 +5,130 @@ csl: csl/year-desc.csl
 nocite: |
   @*
 link-citations: true
-markdown-in-bibliography: true
-
 ---
 
-::: {#refs}
-:::
+---
+title: "Publications"
+---
 
+## 2025
+
+**Nayak, S.M.** & Zahid, Z. (2025). Out of control: Blinding, dose response, and psychosocial controls in psychedelic trials. *Journal of Psychopharmacology*. [[pdf]](pdfs/nayak_zahid_2025_control.pdf)
+
+**Nayak, S.M.**, White, S.H., Hilbert, S.N., Lowe, M.X., Jackson, H., Griffiths, R.R., Garcia-Romeu, A., & Yaden, D.B. (2025). Psychedelic experiences increase mind perception but do not change atheist-believer status: A prospective longitudinal study. *Journal of Psychoactive Drugs*, 57(3), 275–284. [[pdf]](pdfs/Nayak_2025_Psychedelic Experiences Increase Mind Perception but do not Change.pdf)
+
+Richard, J., Scott, J., **Nayak, S.M.**, Sepeda, N.D., Lowe, M.X., Jackson, H., & Garcia-Romeu, A. (2025). Patterns of internalizing problems, substance use and cognitive flexibility before and after naturalistic psilocybin use: A repeated measures latent profile analysis. *International Journal of Mental Health and Addiction*. 
+
+Richard, J., **Nayak, S.M.**, Sepeda, N., & Garcia-Romeu, A. (2025). Latent class analysis of changes in substance use and depressive symptoms following naturalistic psilocybin use: Results from a prospective longitudinal survey. *Drug and Alcohol Dependence*, 267, 112184.
+
+Bender, D.A., **Nayak, S.M.**, Siegel, J.S., Hellerstein, D.J., Ercal, B.C., & Lenze, E.J. (2025). Psychological support approaches in psychedelic therapy: Results from a survey of psychedelic practitioners. *The Journal of Clinical Psychiatry*, 86(1), 24m15521.
+
+Bender, D.A., **Nayak, S.M.**, Siegel, J.S., Hellerstein, D.J., Ercal, B.C., & Lenze, E.J. (2025). The role of touch in psychedelic therapy: Perspectives from a survey of practitioners in research settings. *American Journal of Psychotherapy*.
+
+Goldy, S.P., Du, B.A., Rohde, J.S., **Nayak, S.M.**, Strickland, J.C., Ehrenkranz, R., Levine, M., Barrett, F.S., & Yaden, D.B. (2025). Psychedelic risks and benefits: A cross-sectional survey study. *Journal of Psychopharmacology*, 39(5), 436–452.
+
+Singleton, S.P., Sevchik, B.L., Vandekar, S.N., Strain, E.C., **Nayak, S.M.**, Dworkin, R.H., Scott, J.C., & Satterthwaite, T.D. (2025). An initiative for living evidence synthesis in clinical psychedelic research. *Nature Mental Health*, 3(1), 3–5.
+
+Yaden, D.B., Graziosi, M., Owen, A.M., Agin-Liebes, G., Aaronson, S.T., Allen, K.E., Barrett, F.S., Bogenschutz, M.P., Carhart-Harris, R., Ching, T.H.W., **Nayak, S.M.**, & Yaden, M.E. (2025). A field-wide review and analysis of study materials used in psilocybin trials: Assessment of two decades of research. *Psychedelic Medicine*, 3(1), 1–18.
+
+Mathai, D.S., Roberts, D.E., **Nayak, S.M.**, Sepeda, N.D., Lehrner, A., Johnson, M.W., Lowe, M.X., Jackson, H., & Garcia-Romeu, A. (2025). Shame, guilt, and psychedelic experience: Results from a prospective, longitudinal survey of real-world psilocybin use. *Journal of Psychoactive Drugs*.
+
+Ehrenkranz, R., Agrawal, M., **Nayak, S.M.**, & Yaden, D.B. (2025). Adverse events should not be surprising in psychedelic research. *Psychedelic Medicine*, 3(1), 59–62.
+
+Barnett, B.S., Vest, M.F., Delatte, M.S., King IV, F., Mauney, E.E., Coulson, A.J., **Nayak, S.M.**, Hendricks, P.S., Greer, G.R., & Murnane, K.S. (2025). Practical considerations in the establishment of psychedelic research programs. *Psychopharmacology*, 242(1), 27–43.
+
+Bender, D.A., **Nayak, S.M.**, Siegel, J.S., Hellerstein, D.J., Ercal, B.C., & Lenze, E.J. (2025). Psychedelic therapies: One drug, multiple treatments reply to Modesto-Lowe et al. *The Journal of Clinical Psychiatry*, 86(4), 25lr15978a.
+
+Jones, G., Lowe, M.X., **Nayak, S.**, Sepeda, N., Kettner, H., Carhart-Harris, R., Jackson, H., & Garcia-Romeu, A. (2025). Examining differences in the effects and contexts of naturalistic psilocybin use for White participants vs. participants of Color: A longitudinal online survey study. *Journal of Affective Disorders*, 370, 54–61.
+
+## 2024
+
+Hinkle, J.T., Graziosi, M., **Nayak, S.M.**, & Yaden, D.B. (2024). Adverse events in studies of classic psychedelics: A systematic review and meta-analysis. *JAMA Psychiatry*. [[pdf]](pdfs/hinkle_2024_AE.pdf)
+
+Yaden, D.B., Gukasyan, N., **Nayak, S.M.** (2024). Psilocybin in bipolar II study provides preliminary data on safety. *JAMA Psychiatry*, 81(6), 541–542.
+
+**Nayak, S.M.** & Johnson, M.W. (2024). Disorders due to substance use: Hallucinogens and MDMA-related substances. In *Tasman's Psychiatry* (5th ed., pp. 2653–2686). Springer International Publishing. [[pdf]](pdfs/nayak_2023_disorders_mdma_psychedelics.pdf)
+
+
+Barnett, B.S., Anand, A., Dewey, E.N., Smith, D., **Nayak, S.M.**, Bruckman, D., & Weleff, J. (2024). Perceived risk of trying lysergic acid diethylamide in the United States from 2015 to 2019: Are Americans assessing lysergic acid diethylamide's risk profile more favorably? *Psychedelic Medicine*, 2(2), 74–86.
+
+
+Davis, A.K., Timmermann, C., Ortiz Bernal, A.M., Lancelotta, R., **Nayak, S.M.**, Sepeda, N.D., Nikolaidis, A., & Griffiths, R.R. (2024). Translation and initial psychometric evaluation of Spanish versions of three psychedelic acute effects measures: Mystical, challenging, and insight experiences. *Journal of Psychoactive Drugs*, 56(4), 456–466.
+
+Levin, A.W., Lancelotta, R., Sepeda, N.D., Gukasyan, N., **Nayak, S.M.**, Wagener, T.L., Barrett, F.S., Griffiths, R.R., & Davis, A.K. (2024). The therapeutic alliance between study participants and intervention facilitators is associated with acute effects and clinical outcomes in a psilocybin-assisted therapy trial for major depressive disorder. *PLOS ONE*, 19(3), e0300501.
+
+Wang, E., Mathai, D.S., Gukasyan, N., **Nayak, S.**, & Garcia-Romeu, A. (2024). Knowledge, attitudes, and concerns about psilocybin and MDMA as novel therapies among U.S. healthcare professionals. *Scientific Reports*, 14(1), 28022.
+
+Meling, D., Ehrenkranz, R., **Nayak, S.M.**, Aicher, H.D., Funk, X., van Elk, M., Graziosi, M., Bauer, P.R., Scheidegger, M., & Yaden, D.B. (2024). Mind the psychedelic hype: Characterizing the risks and benefits of psychedelics for depression. *Psychoactives*, 3(2), 215–234.
+
+Gordon, A.R., Carrithers, B.M., Pagni, B.A., Kettner, H., Marrocu, A., **Nayak, S.**, Weiss, B.J., Carhart-Harris, R.L., Roberts, D.E., Erritzoe, D. (2024). The effect of psychedelics on individuals with a personality disorder: Results from two prospective cohort studies.
+
+Jacobs, E., Earp, B.D., Appelbaum, P.S., Bruce, L., Cassidy, K., Celidwen, Y., Cheung, K., Clancy, S.K., Devenot, N., Evans, J., **Nayak, S.M.**, Yaden, D.B. (2024). The Hopkins-Oxford Psychedelics Ethics (HOPE) Working Group consensus statement. *The American Journal of Bioethics*, 24(7), 6–12.
+
+O'Donnell, K.C., Anderson, B.T., Barrett, F.S., Bogenschutz, M.P., Grob, C.S., Hendricks, P.S., Kelmendi, B., **Nayak, S.M.**, Nicholas, C.R., Paleos, C.A. (2024). Misinterpretations and omissions: A critical response to Goodwin and colleagues' commentary on psilocybin-assisted therapy. *American Journal of Psychiatry*, 181(1), 74–75.
+
+Dworkin, R.H., McDermott, M.P., **Nayak, S.M.**, Strain, E.C. (2024). Reply to "Capturing synergy holistically in psychedelic clinical trials." *Clinical Pharmacology & Therapeutics*, 115(3).
+
+Yaden, D.B., **Nayak, S.M.**, Griffiths, R.R. (2024). Belief change and agnostic frames in psychedelic research and clinical contexts. In C. Letheby & P. Gerrans (Eds.), *Philosophical Perspectives on Psychedelic Psychiatry*. Oxford Academic.
+
+Davis, A., Levin, A., Lancelotta, R., Sepeda, N., Gukasyan, N., **Nayak, S.**, Barrett, F., Griffiths, R. (2024). Acute psychedelic effects and clinical outcomes are associated with therapeutic alliance among participants receiving psilocybin therapy. *Drug and Alcohol Dependence*, 260, 110609.
+
+Lancelotta, R., Timmerman, C., Bernal, A.M.O., **Nayak, S.**, Sepeda, N.D., Nikolaidis, A., Griffiths, R.R., Davis, A.K. (2024). Associations between harm reduction strategy use and acute psychedelic effects in Spanish speakers who used LSD or psilocybin. *Drug and Alcohol Dependence*, 260, 110861.
+
+Yaden, D.B., Berghella, A.P., Hendricks, P.S., Yaden, M.E., Levine, M., Rohde, J.S., **Nayak, S.**, Johnson, M.W., Garcia-Romeu, A. (2024). IUPHAR-review: The integration of classic psychedelics into current substance use disorder treatment models. *Pharmacological Research*, 199, 106998.
+
+## 2023
+
+**Nayak, S.M.**, Singh, M., Yaden, D.B., & Griffiths, R.R. (2023). Belief changes associated with psychedelic use. *Journal of Psychopharmacology*, 37(1), 80–92. [[pdf]](pdfs/Nayak_2023_Belief_changes_associated_with_psychedelic_use.pdf)
+
+**Nayak, S.M.**, Bari, B.A., Yaden, D.B., Spriggs, M.J., Rosas, F.E., Peill, J.M., Giribaldi, B., Erritzoe, D., Nutt, D.J., & Carhart-Harris, R. (2023). A Bayesian reanalysis of a trial of psilocybin versus escitalopram for depression. *Psychedelic Medicine*, 1(1), 18–26. [[pdf]](pdfs/nayak_2022_bayesian_reanalysis.pdf)
+
+**Nayak, S.M.**, Bradley, M.K., Kleykamp, B.A., Strain, E.C., Dworkin, R.H., & Johnson, M.W. (2023). Control conditions in randomized trials of psychedelics: An ACTTION systematic review. *The Journal of Clinical Psychiatry*, 84(3), 22r14518. [[pdf]](pdfs/nayak_2023_ACTTION.pdf)
+
+Gukasyan, N., Griffiths, R.R., Yaden, D.B., Antoine, D.G., **Nayak, S.M.** (2023). Attenuation of psilocybin mushroom effects during and after SSRI/SNRI antidepressant use. *Journal of Psychopharmacology*, 37(7), 707–716. [[pdf]](pdfs/gukasyan_2023_SRI.pdf)
+
+**Nayak, S.M.**, Jackson, H., Sepeda, N.D., Mathai, D.S., So, S., Yaffe, A., Zaki, H., Brasher, T.J., Lowe, M.X., Jolly, D.R.P., & Garcia-Romeu, A. (2023). Naturalistic psilocybin use is associated with persisting improvements in mental health and well-being: Results from a prospective, longitudinal survey. *Frontiers in Psychiatry*, 14, 1199642.
+
+Mathai, D.S., **Nayak, S.M.**, Yaden, D.B., & Garcia-Romeu, A. (2023). Reconsidering "dissociation" as a predictor of antidepressant efficacy for esketamine. *Psychopharmacology*, 240(4), 827–836.
+
+Raison, C.L., Sanacora, G., Woolley, J., Heinzerling, K., Dunlop, B.W., Brown, R.T., Kakar, R., Hassman, M., Trivedi, R.P., Robison, R., **Nayak, S.M.**, & Griffiths, R.R. (2023). Single-dose psilocybin treatment for major depressive disorder: A randomized clinical trial. *JAMA*, 330(9), 843–853.
+
+Graziosi, M., Singh, M., **Nayak, S.M.**, Yaden, D.B. (2023). Acute subjective effects of psychedelics within and beyond WEIRD contexts. *Journal of Psychoactive Drugs*, 55(5), 558–569.
+
+Dworkin, R.H., McDermott, M.P., **Nayak, S.M.**, Strain, E.C. (2023). Psychedelics and psychotherapy: Is the whole greater than the sum of its parts? *Clinical Pharmacology & Therapeutics*, 114(6), 1166–1169.
+
+## 2022
+
+Gukasyan, N. & **Nayak, S.M.** (2022). Psychedelics, placebo effects, and set and setting: Insights from common factors theory of psychotherapy. *Transcultural Psychiatry*, 59(5), 652–664.
+
+Huhn, A.S., Strain, E.C., Jardot, J., Turner, G., Bergeria, C.L., **Nayak, S.M.**, & Dunn, K.E. (2022). Treatment disruption and childcare responsibility as risk factors for drug and alcohol use in persons in treatment for substance use disorders during the COVID-19 crisis. *Journal of Addiction Medicine*, 16(1), e8–e15.
+
+Zeifman, R.J., Yu, D., Singhal, N., Wang, G., **Nayak, S.M.**, & Weissman, C.R. (2022). Decreases in suicidality following psychedelic therapy: A meta-analysis of individual patient data across clinical trials. *The Journal of Clinical Psychiatry*, 83(2), 39235.
+
+**Nayak, S.M.** & Griffiths, R.R. (2022). A single belief-changing psychedelic experience is associated with increased attribution of consciousness to living and non-living entities. *Frontiers in Psychology*, 13, 852248.
+
+Sweeney, M.M., **Nayak, S.M.**, Hurwitz, E.S., Mitchell, L.N., Swift, T.C., & Griffiths, R.R. (2022). Comparison of psychedelic and near-death or other non-ordinary experiences in changing attitudes about death and dying. *PLOS ONE*, 17(8), e0271926.
+
+**Nayak, S.M.**, Brigham, J., Gerstenblith, T.A., & Prince, E. (2022). Psychopharmacology in the critical care setting. In K.J. Stucky & J.E. Jutte (Eds.), *Critical Care Psychology and Rehabilitation* (pp. 235–250). Oxford University Press.
+
+## 2021
+
+**Nayak, S.M.** & Johnson, M.W. (2021). Psychedelics and psychotherapy. *Pharmacopsychiatry*, 54(04), 167–175. [[pdf]](pdfs/nayak_2021_psychotherapy.pdf)
+
+**Nayak, S.M.**, Gukasyan, N., Barrett, F.S., Erowid, E., Erowid, F., & Griffiths, R.R. (2021). Classic psychedelic coadministration with lithium, but not lamotrigine, is associated with seizures: An analysis of online psychedelic experience reports. *Pharmacopsychiatry*, 54(05), 240–245. [[pdf]](pdfs/nayak_2021_lithium.pdf)
+
+**Nayak, S.M.**, Huhn, A.S., Bergeria, C.L., Strain, E.C., & Dunn, K.E. (2021). Familial perceptions of appropriate treatment types and goals for a family member who has opioid use disorder. *Drug and Alcohol Dependence*, 221, 108649.
+
+Yaden, D.B., Johnson, M.W., Griffiths, R.R., Doss, M., Garcia-Romeu, A., **Nayak, S.M.**, Gukasyan, N., Mathur, B.N., & Barrett, F.S. (2021). Psychedelics and consciousness: Distinctions, demarcations, and opportunities. *International Journal of Neuropsychopharmacology*, 24(8), 615–623.
+
+Yaden, D.B., **Nayak, S.M.**, Gukasyan, N., Anderson, B.T., & Griffiths, R.R. (2021). The potential of psychedelics for end of life and palliative care. *Disruptive Psychopharmacology*, 169–184.
+
+<!--
+## 2016
+
+Kerr, C.E., Agrawal, U., & **Nayak, S.M.** (2016). The effects of tai chi practice on intermuscular beta coherence and the rubber hand illusion. *Frontiers in Human Neuroscience*, 10, 37.
+
+## 2012
+
+Zaller, N.D., Yokell, M.A., **Nayak, S.M.**, Fu, J.J., Bazazi, A.R., & Rich, J.D. (2012). Syringe acquisition experiences and attitudes among injection drug users undergoing short-term opioid detoxification in Massachusetts and Rhode Island. *Journal of Urban Health*, 89(4), 659–670. 
+-->

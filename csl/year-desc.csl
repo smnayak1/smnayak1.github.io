@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
   <info>
     <title>Year Descending</title>
@@ -25,28 +26,13 @@
     <group delimiter=", ">
       <text variable="container-title" font-style="italic"/>
       <group>
-        <text variable="volume" prefix=", " font-style="italic"/>
+        <text variable="volume" font-style="italic"/>
         <text variable="issue" prefix="(" suffix=")"/>
       </group>
-      <text variable="page" prefix=", "/>
+      <text variable="page"/>
     </group>
   </macro>
 
-  <macro name="doi">
-    <text variable="DOI" prefix=" https://doi.org/"/>
-  </macro>
-
-  <macro name="url">
-    <choose>
-      <if variable="URL">
-        <text value=" [PDF](" />
-        <text variable="URL" />
-        <text value=")" />
-      </if>
-    </choose>
-  </macro>
-
-  <!-- required even if you don't use in-text citations -->
   <citation>
     <layout>
       <text variable="citation-number"/>
@@ -62,12 +48,9 @@
     <layout>
       <group delimiter=". ">
         <text macro="author"/>
-        <text macro="issued" prefix=" (" suffix=")."/>
+        <text macro="issued" prefix="(" suffix=")"/>
         <text macro="title"/>
-        <text macro="container" prefix=" "/>
-        <text macro="doi"/>
-        <text macro="url"/>
-        <text variable="note" prefix=" "/>
+        <text macro="container"/>
       </group>
     </layout>
   </bibliography>
