@@ -8,9 +8,10 @@ about:
   # quarto publish gh-pages
   # https://smnayak1.github.io/
 ---
+
 ## Bio
 
-Sandeep M. Nayak, MD, is an Assistant Professor of Psychiatry at Johns Hopkins University School of Medicine and Medical Director of the Center for Psychedelic & Consciousness Research.
+Sandeep M. Nayak, MD, is an Assistant Professor of Psychiatry at Johns Hopkins University School of Medicine and Medical Director of the [Center for Psychedelic & Consciousness Research](https://hopkinspsychedelic.org/){style="color: black; text-decoration: none;"}.
 
 Dr. Nayak's research focuses on the clinical applications and methodological challenges of psychedelic medicine. He is particularly interested in testing and improving psychedelics for various psychiatric indications especially addictions and mood disorders. He currently serves as Principal Investigator for three clinical trials investigating psilocybin for opioid use disorder, PTSD, and microdosing safety. He also works on behavioral pharmacology of psychedelics, psychotherapy/psychological support, belief changes, and cross-cultural effects of psychedelics. He has personally conducted several dozen high-dose psilocybin sessions and overseen hundreds. He has worked on more than a dozen clinical trials of various psychedelics in patient populations.
 
@@ -30,9 +31,8 @@ Sandeep is currently Principal Investigator of three clinical trials:
 -   [Google Scholar](https://scholar.google.com/citations?user=qhEztHUAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6832-0639) · [GitHub](https://github.com/smnayak1)
 -   [Twitter/X](https://x.com/sdpnayak) · [Hopkins Profile](https://hopkinspsychedelic.org/nayak)
 
-Feel free to reach out for research collaborations, inquiries, speaking engagements and consulting. I do not see patients outside of Johns Hopkins. 
+Feel free to reach out for research collaborations, inquiries, speaking engagements and consulting. I do not see patients outside of Johns Hopkins.
 
 I do not currently have any available positions, but will be seeking an MD postdoc for July 2026.
 
 *This bio and headshot are available for media and speaking requests.*
-
