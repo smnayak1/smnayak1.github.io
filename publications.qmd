@@ -1,9 +1,9 @@
 ---
 title: "Publications"
 bibliography: bib/publications.bib
-csl: csl/year-desc.csl
-nocite: |
-  @*
+#csl: csl/year-desc.csl
+#nocite: |
+#  @*
 link-citations: true
 ---
 
