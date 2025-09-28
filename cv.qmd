@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-[Download full CV (PDF)](/pdfs/Nayak_CV.pdf)
+[[pdf]](/pdfs/Nayak_CV.pdf)
 
 ## Education
 

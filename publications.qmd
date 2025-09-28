@@ -81,7 +81,7 @@ Gukasyan, N., Griffiths, R.R., Yaden, D.B., Antoine, D.G., **Nayak, S.M.** (2023
 
 **Nayak, S.M.**, Jackson, H., Sepeda, N.D., Mathai, D.S., So, S., Yaffe, A., Zaki, H., Brasher, T.J., Lowe, M.X., Jolly, D.R.P., & Garcia-Romeu, A. (2023). Naturalistic psilocybin use is associated with persisting improvements in mental health and well-being: Results from a prospective, longitudinal survey. *Frontiers in Psychiatry*, 14, 1199642. [\[doi\]](https://doi.org/10.3389/fpsyt.2023.1199642)
 
-Raison, C.L., Sanacora, G., Woolley, J., Heinzerling, K., Dunlop, B.W., Brown, R.T., Kakar, R., Hassman, M., Trivedi, R.P., Robison, R., **Nayak, S.M.**, & Griffiths, R.R. (2023). Single-dose psilocybin treatment for major depressive disorder: A randomized clinical trial. *JAMA*, 330(9), 843–853. [\[doi\]](https://doi.org/10.1001/jama.2023.14530)
+Raison, C.L., Sanacora, G., Woolley, J., Heinzerling, K., Dunlop, B.W., Brown, R.T., ... **Nayak, S.M.**, ... Griffiths, R.R. (2023). Single-dose psilocybin treatment for major depressive disorder: A randomized clinical trial. *JAMA*, 330(9), 843–853. [\[doi\]](#0)
 
 Mathai, D.S., **Nayak, S.M.**, Yaden, D.B., & Garcia-Romeu, A. (2023). Reconsidering "dissociation" as a predictor of antidepressant efficacy for esketamine. *Psychopharmacology*, 240(4), 827–836. [\[doi\]](https://doi.org/10.1007/s00213-023-06324-8)
 
