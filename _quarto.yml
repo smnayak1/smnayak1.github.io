@@ -13,8 +13,8 @@ website:
         href: index.qmd
       - text: Publications
         href: publications.qmd
-      - text: Updates
-        href: updates.qmd
+      # - text: Updates
+        # href: updates.qmd
       - text: CV
         href: cv.qmd
     right:
