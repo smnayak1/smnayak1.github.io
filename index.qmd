@@ -8,21 +8,27 @@ about:
   # quarto publish gh-pages
   # https://smnayak1.github.io/
 ---
+## Bio
 
-Sandeep M. Nayak, MD, is an Assistant Professor of Psychiatry at Johns Hopkins and Medical Director of the Center for Psychedelic & Consciousness Research. He joined the center in 2020, completed a postdoctoral fellowship with Roland Griffiths, PhD, and then transitioned to faculty.
+Sandeep M. Nayak, MD, is an Assistant Professor of Psychiatry at Johns Hopkins University School of Medicine and Medical Director of the Center for Psychedelic & Consciousness Research.
+
+Dr. Nayak's research focuses on the clinical applications and methodological challenges of psychedelic medicine. He is particularly interested in testing and improving psychedelics for various psychiatric indications especially addictions and mood disorders. He currently serves as Principal Investigator for three clinical trials investigating psilocybin for opioid use disorder, PTSD, and microdosing safety. He also works on behavioral pharmacology of psychedelics, psychotherapy/psychological support, belief changes, and cross-cultural effects of psychedelics. He has personally conducted several dozen high-dose psilocybin sessions and overseen hundreds. He has worked on more than dozen clinical trials of various psychedelics in patient populations.
+
+He earned his MD from Brown University and completed psychiatry residency at Johns Hopkins Hospital, followed by a postdoctoral fellowship with Roland Griffiths. He is also a practicing psychiatrist at Johns Hopkins Bayview Medical Center with clinical interests in behavioral disorders, mood disorders and catatonia.
 
 Sandeep is currently Principal Investigator of three clinical trials:
 
--   [BIPOD](https://hopkinspsychedelic.org/opioiduse): a randomized trial of psilocybin for Opioid Use Disorder alongside buprenorphine
+-   [BIPOD](https://hopkinspsychedelic.org/opioiduse): a randomized trial of psilocybin for Opioid Use Disorder with buprenorphine
 
 -   [Pilot study of psilocybin for PTSD](https://hopkinspsychedelic.org/ptsdstudy)
 
 -   [Microdose psilocybin safety study](https://hopkinspsychedelic.org/microdose) in healthy volunteers
-
-His interests clinical applications of psychedelics, Bayesian statistics, clinical-trial methodology, belief change, behavioral pharmacology and psychedelic anthropology. He is also a practicing psychiatrist with clinical interests in behavioral disorders, mood disorders and catatonia.
 
 ## Contact
 
 -   Email: smn \[at\] jhmi \[dot\] edu
 -   [Google Scholar](https://scholar.google.com/citations?user=qhEztHUAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6832-0639) · [GitHub](https://github.com/smnayak1)
 -   [Twitter/X](https://x.com/sdpnayak) · [Hopkins Profile](https://hopkinspsychedelic.org/nayak)
+
+*This bio and headshot are available for media and speaking requests.*
+
