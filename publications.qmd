@@ -21,6 +21,8 @@ Bender, D.A., **Nayak, S.M.**, Siegel, J.S., Hellerstein, D.J., Ercal, B.C., & L
 
 Bender, D.A., **Nayak, S.M.**, Siegel, J.S., Hellerstein, D.J., Ercal, B.C., & Lenze, E.J. (2025). The role of touch in psychedelic therapy: Perspectives from a survey of practitioners in research settings. *American Journal of Psychotherapy*. [\[doi\]](https://doi.org/10.1176/appi.psychotherapy.20240025)
 
+1.  Bender, D.A., **Nayak, S.M**., Siegel, J.S. et al. Provider perspectives on challenges in treatment during psychedelic therapy. Psychopharmacology (2025). [\[doi\]](https://doi.org/10.1007/s00213-025-06907-7)
+
 Singleton, S.P., Sevchik, B.L., Vandekar, S.N., Strain, E.C., **Nayak, S.M.**, Dworkin, R.H., Scott, J.C., & Satterthwaite, T.D. (2025). An initiative for living evidence synthesis in clinical psychedelic research. *Nature Mental Health*, 3(1), 3–5. [\[project website\]](https://sypres.io/docs/datasets/PSILODEP/)
 
 Goldy, S.P., Du, B.A., Rohde, J.S., **Nayak, S.M.**, Strickland, J.C., Ehrenkranz, R., Levine, M., Barrett, F.S., & Yaden, D.B. (2025). Psychedelic risks and benefits: A cross-sectional survey study. *Journal of Psychopharmacology*, 39(5), 436–452. [\[doi\]](https://doi.org/10.1177/02698811241292951)
