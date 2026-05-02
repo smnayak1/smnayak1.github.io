@@ -39,3 +39,4 @@ format:
 metadata:
   markdown-in-bibliography: true
   citeproc: true
+  # quarto publish gh-pages
