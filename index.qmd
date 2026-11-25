@@ -11,19 +11,29 @@ about:
 
 ## Bio
 
-Sandeep M. Nayak, MD, is an Assistant Professor of Psychiatry at Johns Hopkins University School of Medicine and Medical Director of the [Center for Psychedelic & Consciousness Research](https://hopkinspsychedelic.org/){style="color: black; text-decoration: none;"}.
+Sandeep M. Nayak, MD, is an Associate Professor of Psychiatry at Johns Hopkins University School of Medicine and Medical Director of the [Center for Psychedelic & Consciousness Research](https://hopkinspsychedelic.org/){style="color: black; text-decoration: none;"}.
 
 Dr. Nayak's research focuses on the clinical applications and methodological challenges of psychedelic medicine. He is particularly interested in testing and improving psychedelics for various psychiatric indications especially addictions and mood disorders. He currently serves as Principal Investigator for three clinical trials investigating psilocybin for opioid use disorder, PTSD, and microdosing safety. He also works on behavioral pharmacology of psychedelics, psychotherapy/psychological support, belief changes, and cross-cultural effects of psychedelics. He has personally conducted several dozen high-dose psilocybin sessions and overseen hundreds. He has worked on more than a dozen clinical trials of various psychedelics in patient populations.
 
 He earned his MD from Brown University and completed psychiatry residency at Johns Hopkins Hospital, followed by a postdoctoral fellowship with Roland Griffiths. He is also a practicing psychiatrist at Johns Hopkins Bayview Medical Center with clinical interests in behavioral disorders, mood disorders and catatonia.
 
-Sandeep is currently Principal Investigator of three clinical trials:
+Sandeep is currently Principal Investigator of five trials:
 
--   [BIPOD](https://hopkinspsychedelic.org/opioiduse): a randomized trial of psilocybin for Opioid Use Disorder with buprenorphine
+-   [BIPOD](https://hopkinspsychedelic.org/opioiduse): a randomized trial of psilocybin for Opioid Use Disorder with buprenorphine (now complete)
 
--   [Pilot study of psilocybin for PTSD](https://hopkinspsychedelic.org/ptsdstudy)
+-   [Pilot study of psilocybin for PTSD](https://hopkinspsychedelic.org/ptsdstudy) (now complete)
 
--   [Microdose psilocybin safety study](https://hopkinspsychedelic.org/microdose) in healthy volunteers
+-   [Microdose psilocybin safety study](https://hopkinspsychedelic.org/microdose) in healthy volunteers (now complete)
+
+-   PAMVET: MDMA + Psilocybin in veterans with PTSD
+
+-   PsilBlock1: Psilocybin with 5HT~1A~ Blockade
+
+and coming soon:
+
+-   MVP: MDMA vs Psilocybin for PTSD
+
+-   SLIM: Shortened Lsd Inteverntion for Major depressive disorder; LSD plus risperidone abortion in depressed patients.
 
 ## Contact
 
@@ -33,6 +43,6 @@ Sandeep is currently Principal Investigator of three clinical trials:
 
 Feel free to reach out for research collaborations, inquiries, speaking engagements and consulting. I do not see patients outside of Johns Hopkins.
 
-I do not currently have any available positions, but will be seeking an MD postdoc for July 2026.
+I do not currently have any available positions.
 
 *This bio and headshot are available for media and speaking requests.*
