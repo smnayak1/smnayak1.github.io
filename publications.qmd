@@ -17,6 +17,8 @@ Stark-Elster, E., Sethathi, M., van der Merwe, B., **Nayak, S. M.**, Yaden, D. B
 
 **Nayak, S. M.**, Sepeda, N. D., Dick, M. Nielsen, Tiwari, P., Zahid, Z., Sayalı, C., Weiss, B. M., Yaden, D. B., Garcia-Romeu, A., Barnett, B. S., & Barrett, F. S. (2026, preprint). Acute Cardiovascular Effects of Psilocybin: A Pooled Analysis of 14 Studies with Safety Recommendations. [\[link\]](https://www.medrxiv.org/content/10.64898/2026.04.28.26351625v2.full.pdf)
 
+Tiwari, P., **Nayak, S. M.**, Sepeda, N. D., Ehrenkranz, R., Levine, M. A., Rohde, J. S., Miller, E., Beritela, C. M., Scott, J. V., Nestadt, G., Barrett, F. S., & Yaden, D. B. (2026, preprint). An Open-Label Multidose Psilocybin Intervention for Obsessive-Compulsive Disorder. [\[link\]](https://www.medrxiv.org/content/10.64898/2026.10.01.26364511v1.full.pdf)
+
 
 ## 2026
 
@@ -30,7 +32,7 @@ Schettino, J. R., Cheung, K., **Nayak, S. M.**, Weiss, B. M., & Yaden, D. B. (20
 
 Singleton, S. P., Sevchik, B. L., Lahey, A., Cuijpers, P., Harrer, M., Jones, M. T., **Nayak, S. M.**, Strain, E. C., Vandekar, S. N., Dworkin, R. H., Scott, J. C., & Satterthwaite, T. D. (2026). A living systematic review, meta-analysis and open-data resource of randomized controlled trials of psilocybin treatment for symptoms of depression. *Nature Mental Health*. [\[pdf\]](https://singlesp.github.io/papers/natmh2026.pdf) [\[project website\]](https://sypres.io/docs/datasets/PSILODEP/) 
 
-Sevchik, B. L., Singleton, S. P., Lahey, A., Cuijpers, P., Harrer, M., Jones, M. T., **Nayak, S. M.**, Strain, E. C., Vandekar, S. N., Yaden, D. B., et al. (2026). A living systematic review, meta-analysis, and open data resource of trials of MDMA-assisted therapy for PTSD. Neuropsychopharmacology, 1-12. [\[doi\]](https://doi.org/10.1038/s41386-026-02575-z)
+Sevchik, B. L., Singleton, S. P., Lahey, A., Cuijpers, P., Harrer, M., Jones, M. T., **Nayak, S. M.**, Strain, E. C., Vandekar, S. N., Yaden, D. B., et al. (2026). A living systematic review, meta-analysis, and open data resource of trials of MDMA-assisted therapy for PTSD. Neuropsychopharmacology, 1-12. [\[doi\]](https://doi.org/10.1038/s41386-026-02575-z) [\[project website\]](https://sypres.io/docs/datasets/MDMAPTSD/) 
 
 **Nayak, S. M.**, Weiss, B., & Yaden, D. B. (2026).Psychedelics Trials and Outcomes—A Closer Look. JAMA Psychiatry. [\[link\]](https://doi.org/10.1001/jamapsychiatry.2026.1942)
 
@@ -48,7 +50,7 @@ Bender, D.A., **Nayak, S.M.**, Siegel, J.S., Hellerstein, D.J., Ercal, B.C., & L
 
 Bender, D.A., **Nayak, S.M.**, Siegel, J.S., Hellerstein, D.J., Ercal, B.C., & Lenze, E.J. (2025). The role of touch in psychedelic therapy: Perspectives from a survey of practitioners in research settings. *American Journal of Psychotherapy*. [\[doi\]](https://doi.org/10.1176/appi.psychotherapy.20240025)
 
-Bender, D.A., **Nayak, S.M**., Siegel, J.S. et al. (2025. Provider perspectives on challenges in treatment during psychedelic therapy. Psychopharmacology. [\[doi\]](https://doi.org/10.1007/s00213-025-06907-7)
+Bender, D.A., **Nayak, S.M**., Siegel, J.S. et al. (2025). Provider perspectives on challenges in treatment during psychedelic therapy. Psychopharmacology. [\[doi\]](https://doi.org/10.1007/s00213-025-06907-7)
 
 Singleton, S.P., Sevchik, B.L., Vandekar, S.N., Strain, E.C., **Nayak, S.M.**, Dworkin, R.H., Scott, J.C., & Satterthwaite, T.D. (2025). An initiative for living evidence synthesis in clinical psychedelic research. *Nature Mental Health*. [\[project website\]](https://sypres.io/docs/datasets/PSILODEP/)
 
